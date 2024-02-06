@@ -23,3 +23,14 @@ dist-ssr
 *.sln
 *.sw?
 .env
+
+hooks
+info
+confing
+desription
+HEAD
+
+.firebase
+.firebaserc
+firestore.rules
+storage.rules
