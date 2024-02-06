@@ -26,9 +26,10 @@ dist-ssr
 
 hooks
 info
-confing
-desription
+config
+description
 HEAD
+build
 
 .firebase
 .firebaserc
