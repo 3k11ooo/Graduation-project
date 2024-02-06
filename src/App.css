@@ -1,0 +1,45 @@
+#root {
+  width: fit-content;
+  margin: auto;
+  padding: 50px;
+
+}
+.app__write {
+  border: 1px solid white;
+  border-radius: 10px;
+  padding: 10px;
+  background: #000;
+  div {
+    margin: 10px 0;
+  }
+  button {
+    display: block;
+    margin: 10px auto;
+    background: #333;
+  }
+}
+.app__list {
+  ul {
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    row-gap: 8px;
+    padding: 0;
+    justify-content: space-around;
+    li {
+      display: block;
+      list-style: none;
+      button {
+        width: 100%;
+        background: #333;
+      }
+    }
+  }
+
+}
+.app__readImg {
+  img {
+    display: block;
+    margin: auto;
+    max-width: 300px;
+  }
+}
